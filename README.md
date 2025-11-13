@@ -60,3 +60,14 @@ Este proyecto fue desarrollado como material educativo para estudiantes de BIT +
 
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
+
+## Taller
+
+1. Creación del repositorio
+2. Ejecutar el servidor
+<img src="./img/image.png">
+3. Prueba ejemplo: Pasa algun eror en algunos de los casos de prueba
+<img src="./img/image2.png">
+4. Prueba ejemplo: Pasan todos los casos de prueba 
+<img src="./img/image3.png">
+
